@@ -4,25 +4,25 @@
     "organisation": "Google",
     "startDate": "Sept, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Trabalhei no Google Maps", "Reduzir o tempo de loading em 50%"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
+    "role": "Designer UI",
     "organisation": "Mirosoft",
     "startDate": "Aug, 2021",
     "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "experiences": ["Trabalhei no Windows 11", "Fiz o Designe do Painel de Controle"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
+    "role": "SWE Interno",
     "organisation": "Netflix",
     "startDate": "Apr, 2020",
     "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Trabalhei no componente da bliblioteca",
+      "Ajudei a criar componentes UI"
     ],
     "imageSrc": "history/netflix.png"
   }

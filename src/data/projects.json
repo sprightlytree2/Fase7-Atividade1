@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Airsoft",
+    "imageSrc": "projects/Drinks.png",
+    "description": "Adoro fazern drinks para meu amigos e familiares quando estou em casa.",
+    "skills": [""],
+    "demo": "",
+    "source": ""
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Tocar Bateria",
+    "imageSrc": "projects/Bateria.png",
+    "description": "Venho aprendendo a tocar bateria no meu tempo livre.",
+    "skills": [""],
+    "demo": "",
+    "source": ""
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Fazer Drinks",
+    "imageSrc": "projects/Airsoft.png",
+    "description": "Jogo Airsoft a mais de 2 anos com meus amigos.",
+    "skills": [""],
+    "demo": "",
+    "source": ""
   }
 ]
