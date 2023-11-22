@@ -1,7 +1,7 @@
 [
   {
-    "title": "Airsoft",
-    "imageSrc": "projects/Drinks.png",
+    "title": "Fazer Drinks",
+    "imageSrc": "projects/Drinks.jpg",
     "description": "Adoro fazern drinks para meu amigos e familiares quando estou em casa.",
     "skills": [""],
     "demo": "",
@@ -9,16 +9,16 @@
   },
   {
     "title": "Tocar Bateria",
-    "imageSrc": "projects/Bateria.png",
+    "imageSrc": "projects/Bateria.jpg",
     "description": "Venho aprendendo a tocar bateria no meu tempo livre.",
     "skills": [""],
     "demo": "",
     "source": ""
   },
   {
-    "title": "Fazer Drinks",
-    "imageSrc": "projects/Airsoft.png",
-    "description": "Jogo Airsoft a mais de 2 anos com meus amigos.",
+    "title": "Airsoft",
+    "imageSrc": "projects/Airsoft.jpg",
+    "description": "Jogo Airsoft a mais de 2 anos com meus amigos em São Paulo.",
     "skills": [""],
     "demo": "",
     "source": ""
